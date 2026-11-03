@@ -1,6 +1,6 @@
 # Rui Yan
 
-Industry Researcher at **Skywork / Kunlun**. I work on large language model post-training, reinforcement learning for reasoning, and reward modeling.
+Industry Researcher at **Skywork AI**. I work on large language model post-training, reinforcement learning for reasoning, and reward modeling.
 
 **[Personal homepage →](https://yanrui27.github.io/)** · [Google Scholar](https://scholar.google.com/citations?user=BuIJQ1UAAAAJ) · [Email](mailto:rui.yan@kunlun-inc.com) · [Hugging Face](https://huggingface.co/ruiyan)
 
